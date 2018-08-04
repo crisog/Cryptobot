@@ -2,11 +2,12 @@
 A bot for discord that grabs Cryptocurrency prices from Coinmarketcap, Gdax, and some other exchange sites.
 
 
-** LIST OF COMMANDS **
- .c [cryptocurrency] - gets the USD, EUR & BTC price of a coin.
- [DISABLED] .volume [cryptocurrency] - gets the current 24h volume of any crypto. [DISABLED]
- .marketcap [cryptocurrency] - gets the current marketcap of any crypto.
- .csupply [cryptocurrency] - gets the current circulating supply of any crypto.
+** LIST OF COMMANDS ** please refer to crypto using abbreviations such as btc, eth, ltc.
+ .c [cryptocurrency] - gets the USD, EUR & BTC price of a coin.		
+	.g [cryptocurrency] - gets the USD, EUR & BTC price of a coin.		
+ [DISABLED] .volume [cryptocurrency] - gets the current 24h volume of any crypto. [DISABLED]	
+ .marketcap [cryptocurrency] - gets the current marketcap of any crypto.	
+ .csupply [cryptocurrency] - gets the current circulating supply of any crypto.	
  .profit [cryptocurrency] [price you bought coin in USD] [amount] - gets your current profit on any cryptocurrency.
  .calculate [amount] [cryptocurrency] [currency] - calculates value of X cryptocurrency amount to USD, EUR or GBP.
  .buy [amount] [currency] [cryptocurrency] - gets you how many cryptocoins you'll get from X amount of USD, EUR or GBP.
